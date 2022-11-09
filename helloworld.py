@@ -1,2 +1,2 @@
-def commit()
+def commit():
 printf ("hello")
